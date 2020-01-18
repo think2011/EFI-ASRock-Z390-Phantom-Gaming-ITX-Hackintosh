@@ -11,8 +11,8 @@
 | SSD | 海康威视 1TB M.2 | |
 | 核显 | iGPU Intel UHD 630 | |
 | 独显 | 微星 RTX 2070 SUPER 万图师 | 无驱动、不需要、省电 |
-| WiFi/Bluetooth Module | BCM94360CS2 | WIFI、蓝牙、AirDrop等完美 |
-| PSU | 海盗船 SF600 SFX | |
-| Case | GHOST S1 | |
-| Monitor | LG 27寸 4K IPS | 连DP接口 |
+| WiFi、蓝牙 | BCM94360CS2 | WIFI、蓝牙、AirDrop等完美 |
+| 电源 | 海盗船 SF600 SFX | |
+| 机箱 | GHOST S1 | |
+| 显示器 | LG 27寸 4K IPS | 连DP接口 |
 | 操作系统 | Windows 10 + OS X 10.15.2 | Win下用独显，OS X下用核显 |
