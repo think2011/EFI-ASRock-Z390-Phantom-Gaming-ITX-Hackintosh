@@ -10,7 +10,7 @@
 | 内存 | 海盗船 DDR4 3000 8GB 两条 |  超频到 3200 使用 |
 | SSD | 海康威视 1TB M.2 | |
 | 核显 | iGPU Intel UHD 630 | |
-| 独显 | 微星 RTX 2070 SUPER 万图师 | 无驱动、不需要、省电 |
+| 独显 | 技嘉 RTX 3070 Eagle | 无驱动、不需要、省电 |
 | WiFi、蓝牙 | BCM94360CS2 | WIFI、蓝牙、AirDrop等完美 |
 | 电源 | 海盗船 SF600 SFX | |
 | 机箱 | GHOST S1 | |
